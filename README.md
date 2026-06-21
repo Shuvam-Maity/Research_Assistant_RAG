@@ -56,7 +56,7 @@ A Retrieval-Augmented Generation (RAG) app that lets you upload research papers 
 
 ## License
 
-This project is open source and available under the MIT License.
+This project is open source and available under the MIT License
 
 ## Author
 
